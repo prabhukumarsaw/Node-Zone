@@ -18,7 +18,9 @@ Definition::
 
 Node.JS runs single-threaded, non-blocking, asynchronously programming, which is very efficient.
 
-./11.png)
+<div align="center">
+  <img alt="Demo" src="./11.png" />
+</div>
 
 > Node REPL
 > 
@@ -36,7 +38,9 @@ Node.JS runs single-threaded, non-blocking, asynchronously programming, which is
 
 JS write the entire code in one single file. So, there are much complex to handle single file. Then Node provides module format that used for breaking up JS into multiple files.
 
-![22.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9738f521-ef98-4a53-bd95-8d36bf7f7ea3/22.png)
+<div align="center">
+  <img alt="Demo" src="./22.png" />
+</div>
 
 - **FILE-BASED MODULES**
     
