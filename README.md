@@ -18,7 +18,7 @@ Definition::
 
 Node.JS runs single-threaded, non-blocking, asynchronously programming, which is very efficient.
 
-![Screenshot 2022-11-01 234806.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1c796b3-c251-4001-a03c-5b4479bab693/Screenshot_2022-11-01_234806.png)
+./11.png)
 
 > Node REPL
 > 
